@@ -37,6 +37,7 @@ package.json is a file that stores information about the project such as:
 - dependencies
 - author and other metadata
 
+
 .gitignore  
 .gitignore is used to tell Git which files or folders should not be uploaded to GitHub.
 
