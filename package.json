@@ -1,0 +1,17 @@
+{
+  "name": "backend-practice",
+  "version": "1.0.0",
+  "description": "A Basic App to Deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "sufyan ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
