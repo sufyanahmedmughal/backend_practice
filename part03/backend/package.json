@@ -1,0 +1,15 @@
+{
+  "name": "part03",
+  "version": "1.0.0",
+  "description": "This part covers how to deploy a Node.js / Express backend on Render and how to use environment variables with `.env`.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "sufyanahmed",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
